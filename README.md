@@ -1,5 +1,5 @@
 # Tutorial-Imagens-TFT-ILI9341
-Tutorial para a inserção de curvas, imagens e animações no display tft de controlador ILI9341 utilizando biblioteca Adafruit GFX e MCUFRIEND
+Tutorial para a inserção de curvas, imagens e animações no display gráfico de controlador ILI9341 utilizando biblioteca Adafruit GFX e MCUFRIEND
 
 Agora que você já seguiu os passos para obtenção das bibliotecas necessárias para funcionamento do display e conheceu algumas funções básicas como a criação de linhas, retângulos, círculos e triângulos, é hora de explorarmos algumas ideias envolvendo imagens, animações e o traçado de curvas que a biblioteca permite. 
 
